@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#main-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.text {
+  width: 500px;
+  background-color: antiquewhite;
+  padding: 20px;
+}
+
+button {
+  margin: 20px auto 0;
+  display: block;
+  padding: 10px 20px;
+  background: limegreen;
+  color: #fff;
+}
